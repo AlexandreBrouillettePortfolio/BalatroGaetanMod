@@ -1,0 +1,16 @@
+{
+	"id": "gaetan",
+	"name": "Gaetan",
+	"display_name": "Gaetan",
+	"author": ["Keraxar"],
+	"description": "Adds the Gaetan card to the game.",
+	"prefix": "gaetan",
+	"main_file": "gaetan.lua",
+	"priority": 0,
+	"badge_colour": "4287f5",
+	"badge_text_colour": "FFFFFF",
+	"version": "0.1.0",
+	"dependencies": [ 
+		"Steamodded (>=1.0.0~ALPHA-1225a)",
+	]
+}
